@@ -1,17 +1,13 @@
 import Vue from 'vue';
 import Vuex from 'vuex';
-import actions from './actions';
-import getters from './getters';
-import mutations from './mutations';
+import chatModule from './modules/chat';
+import productsModule from './modules/products';
 
 Vue.use(Vuex);
 
 export default new Vuex.Store({
-  state: {
-    messages: [],
-    products: [],
+  modules: {
+    chat: chatModule,
+    products: productsModule,
   },
-  actions,
-  getters,
-  mutations,
 });

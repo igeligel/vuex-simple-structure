@@ -4,7 +4,7 @@
 
 <a href="./License.md"><img src="https://img.shields.io/github/license/igeligel/vuex-simple-structure.svg" alt="badge of license" /></a>
 <a href="https://github.com/igeligel/vuex-simple-structure/pulls"><img src="https://img.shields.io/badge/PR-welcome-green.svg" alt="badge of pull request welcome" /></a>
-<a href="https://www.3yourmind.com/career"><img src="https://img.shields.io/badge/Company-Hiring-brightgreen.svg" alt="badge of hiring advertisement of 3yourmind" /></a>
+<a href="https://www.3yourmind.com/career"><img src="https://img.shields.io/badge/3YOURMIND-Hiring-brightgreen.svg" alt="badge of hiring advertisement of 3yourmind" /></a>
 <a href="https://github.com/igeligel/vuex-simple-structure/stargazers"><img src="https://img.shields.io/github/stars/igeligel/vuex-simple-structure.svg?style=social&label=Stars" alt="badge of github star" /></a>
 
 ## Showcase/Architecture
@@ -88,7 +88,7 @@ The installation process is split into two sections for [development](#developme
 
 ## Contributors
 
-<table><thead><tr><th align="center"><a href="https://github.com/igeligel"><img src="https://avatars2.githubusercontent.com/u/12736734?v=3" width="100px;" style="max-width:100%;"><br><sub>igeligel</sub></a><br><p>Contributions: 5</p></th></tbody></table>
+<table><thead><tr><th align="center"><a href="https://github.com/igeligel"><img src="https://avatars2.githubusercontent.com/u/12736734?v=3" width="100px;" style="max-width:100%;"><br><sub>igeligel</sub></a><br><p>Contributions: 6</p></th></tbody></table>
 
 ## License
 
